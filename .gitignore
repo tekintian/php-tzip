@@ -1,0 +1,48 @@
+###############
+#    folder   #
+###############
+/runtime
+vendor/
+
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.idea/
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+public/upload/
+public/static/qrcode/
+/upload
+/.phpintel
+public/static
+/composer.lock

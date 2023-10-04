@@ -1,0 +1,32 @@
+{
+    "name": "tekintian/php-tzip",
+    "description": "一个简单快速的zip文件压缩打包下载工具类,支持PHP5,php7, php8",
+    "keywords": [
+        "zip",
+        "zip压缩工具",
+        "压缩工具",
+        "工具",
+        "php archive",
+        "archive tool",
+        "php download"
+    ],
+    "license": "MIT",
+    "homepage": "http://dev.tekin.cn",
+    "support": {
+        "issues": "https://github.com/tekintian/php-tzip/issues",
+        "source": "https://github.com/tekintian/php-tzip"
+    },
+    "authors": [
+        {
+            "name": "TekinTian",
+            "email": "tekintian@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.3|^7.2|^8.0"
+    },
+    "autoload": {
+        "psr-4": { "tekintian\\": "src/" }
+    },
+    "version":"1.0.0"
+}
